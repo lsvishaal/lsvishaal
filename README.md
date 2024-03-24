@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaal-ls" alt="vishaal-ls" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Web Development.**
+- 🌱 I’m currently learning **AWS - SQL - Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
